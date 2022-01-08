@@ -1,8 +1,6 @@
 # functional-adventure
 Name: Chakradhar Gummidela
 
-Ucid: 12336702
-
 Email: chakradhar@uchicago.edu
 
 Date: 12/10/2021
